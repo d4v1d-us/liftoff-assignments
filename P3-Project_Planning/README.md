@@ -59,6 +59,9 @@ Secure Application (full application)
  
 	Cash Loan details:
 		Loan Amount, I Agree
+		
+	Send Application: Apply Now Button
+	
 
 ### Project Tracker
 
