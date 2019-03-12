@@ -11,8 +11,7 @@ For this assignment, you'll create some initial plans for your project.
 Landing Page (short application)
 
 - The landing Page will have a focused objective with the Call to Action --> Short Application.
-- The Short Application form will have the input fields, Loan Amount, First Name, Last Name, Email Address, State, Zip Code and check box 
-indicating agreement to the Terms and Conditions.
+- The Short Application form will have the input fields, Loan Amount, First Name, Last Name, Email Address, State, Zip Code and check box indicating agreement to the Terms and Conditions, apply now button.
 - The Apply Now button will validate the input fields, save the Short Application as a lead to the database and progress the consumer to the full application (Secure Application).
 
 Secure Application (full application)
