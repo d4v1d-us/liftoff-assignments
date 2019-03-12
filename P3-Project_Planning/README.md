@@ -15,6 +15,51 @@ Landing Page (short application)
 indicating agreement to the Terms and Conditions.
 - The Apply Now button will validate the input fields, save the Short Application as a lead to the database and progress the consumer to the full application (Secure Application).
 
+Secure Application (full application)
+- The Secure Application page will display the Full Application form.
+- The Full Application for will have 3 sections Personal Information, Employment Information, Banking Information with the input fields,
+
+
+-Personal Information 
+
+	Your name:
+		First Name, Last Name, 
+
+	Your address:
+		Street Address, Street Address2, City, State, Zip Code
+
+	Residence details:
+		Months at Address: years, months, Homeowner
+
+	Contact details:
+		Email Address, Alternate Email, Cell/Best Phone, Home/Alternate Phone
+
+	Your birthdate:
+		Birthdate, year, Are you Active or Ex Military
+
+	Two References:
+		1st Full Name, 1st Phone No, 1st Relationship
+		2nd Full Name, 2nd Phone No, 2nd Relationship
+
+-Employment Information 
+
+	Employment details:
+		Employer Name, Months Employed, Work Phone No, Work Phone Ext
+
+	Income details:
+		Type of Income, Pay Frequency, Pay per Period, Direct Deposit, Next Payday, 2nd Payday
+
+-Banking Information 
+
+ 	Bank details:
+		Bank Name, Months at Bank: years months, Account Type, Bank ABA No, Account No
+
+	Identification details:
+		Social Security No, Drivers License No, Drivers State
+ 
+	Cash Loan details:
+		Loan Amount, I Agree
+
 ### Project Tracker
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
