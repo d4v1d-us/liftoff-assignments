@@ -61,6 +61,12 @@ Secure Application (full application)
 		
 	Send Application: Apply Now Button
 	
+Secure Approval
+
+Congratulations
+
+Additional Resources
+	
 
 ### Project Tracker
 
