@@ -80,6 +80,8 @@ Secure Approval
 
 Congratulations
 
+- The Congratulations page will display the approval message, link to the lead buyer and redirect the consumer to finish any required documents to complete the loan.
+
 [Congratulations Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/4.congratulations.JPG)
 
 Additional Resources
