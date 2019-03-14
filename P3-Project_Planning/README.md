@@ -80,8 +80,11 @@ Secure Approval
 
 Congratulations
 
+[Congratulations Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/4.congratulations.JPG)
+
 Additional Resources
 	
+[Additional Resources Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/5.additional.resources.JPG)
 
 ### Project Tracker
 
