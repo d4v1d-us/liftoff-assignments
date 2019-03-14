@@ -93,7 +93,7 @@ Additional Resources
 
 ### Project Tracker
 
-[liftoff project git project tracker](https://github.com/d4v1d-us/liftoff-assignments.git)
+[liftoff git project tracker](https://github.com/d4v1d-us/liftoff-assignments.git)
 
 ### Project Repo Link
 
