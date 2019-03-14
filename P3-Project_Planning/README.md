@@ -85,6 +85,9 @@ Congratulations
 [Congratulations Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/4.congratulations.JPG)
 
 Additional Resources
+
+- The Congratulations page will display a status message to the consumer that their application was not successfully matched with a lead buyer in real-time.
+- Additional affiliate offer links will be displayed to the consumer.
 	
 [Additional Resources Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/5.additional.resources.JPG)
 
