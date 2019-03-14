@@ -14,7 +14,7 @@ Landing Page (short application)
 - The Short Application form will have the input fields, Loan Amount, First Name, Last Name, Email Address, State, Zip Code and check box indicating agreement to the Terms and Conditions, apply now button.
 - The Apply Now button will validate the input fields, save the Short Application as a lead to the database and progress the consumer to the full application (Secure Application).
 
-[Landing Page Image](http://google.com)
+[Landing Page Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/1.landingpage.jpg)
 
 Secure Application (full application)
 - The Secure Application page will display the Full Application form.
@@ -62,6 +62,8 @@ Secure Application (full application)
 		Loan Amount, I Agree
 		
 	Send Application: Apply Now Button
+	
+[Secure Application Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/2.secure.application.jpg)
 	
 Secure Approval
 
