@@ -76,7 +76,7 @@ Secure Approval
 - If the consumer does not qualify for any lead buyers, the consumer is shown the Additional Resources page.
 - Secure Approval displays application processing status information to the consumer.
 
-[Secure Approval Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/2.secure.application.jpg)
+[Secure Approval Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/3.secure.approval.JPG)
 
 Congratulations
 
