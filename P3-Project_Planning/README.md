@@ -97,4 +97,4 @@ Additional Resources
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[lead-gen-demo](https://github.com/d4v1d-us/lead-gen-demo.git)
