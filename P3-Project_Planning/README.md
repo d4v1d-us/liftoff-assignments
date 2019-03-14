@@ -62,10 +62,24 @@ Secure Application (full application)
 		Loan Amount, I Agree
 		
 	Send Application: Apply Now Button
-	
+
+- The Apply Now Button will validate the input fields, save the application to the database and proceed to the Secure Approval page.
+
 [Secure Application Image](https://github.com/d4v1d-us/liftoff-assignments/blob/master/P3-Project_Planning/2.secure.application.jpg)
 	
 Secure Approval
+
+- The Secure Approval page will format application data into proper XML format for affiliate lead buyers.
+- Send the lead real-time through affiliate lead buyers API ping tree, process the lead buyers ping tree response and 
+
+save to database.
+- This process is repeated for any number of affiliate lead buyers configured.
+- If a response of accepted is returned the lead ping tree process is stopped and the consumer is shown the 
+
+Congratulations page.
+- If the consumer does not qualify for any lead buyers, the consumer is shown the Additional Resources page.
+- Secure Approval displays application processing information to the consumer.
+
 
 Congratulations
 
